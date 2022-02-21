@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+---
+driveId: ikmgqp3V7k8
+layout: default
+title: SymphonyNet
+---
 
-You can use the [editor on GitHub](https://github.com/symphonynet/symphonynet.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Video Demonstration
 
-### Markdown
+<!---
+Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
+-->
 
-```markdown
-Syntax highlighted code block
+{% include googleDrivePlayer.html id=page.driveId %}
 
-# Header 1
-## Header 2
-### Header 3
+## More Samples
 
-- Bulleted
-- List
+### Continuation of a given prime
 
-1. Numbered
-2. List
+<table>
+   <tr>
+      <td></td>
+      <td align="center"><b>Prime I (5-bar length)</b></td>
+      <td align="center"><b>Prime II (8-bar length)</b></td>
+   </tr>
+   <tr>
+      <td align="center">Input</td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_5.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_8.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td rowspan="4" align="center">SymphonyNet</td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_51.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_81.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      
+      <td><audio src="{{ site.url }}/assets/prime/prime_52.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_82.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      
+      <td><audio src="{{ site.url }}/assets/prime/prime_53.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_83.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      
+      <td><audio src="{{ site.url }}/assets/prime/prime_54.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_84.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td align="center">Human</td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_50.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/prime/prime_80.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+</table>
 
-**Bold** and _Italic_ and `Code` text
+### Generation with less restriction
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/symphonynet/symphonynet.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table> 
+   <tr>
+      <td align="center"><b>      Conditioned on chord progression    </b></td>
+      <td align="center"><b>              From scratch              </b></td>
+   </tr>
+   <tr>
+      <td>  <audio src="{{ site.url }}/assets/chord/chord1.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/unconditioned/scratch1.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td>  <audio src="{{ site.url }}/assets/chord/chord2.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/unconditioned/scratch2.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td>  <audio src="{{ site.url }}/assets/chord/chord3.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/unconditioned/scratch3.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td>  <audio src="{{ site.url }}/assets/chord/chord4.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+      <td><audio src="{{ site.url }}/assets/unconditioned/scratch4.mp3" preload="none" controls>   Your browser doesn't support audio tag. </audio></td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
