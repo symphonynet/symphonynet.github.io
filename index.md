@@ -15,6 +15,7 @@ Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
+We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the Doctor!"* as our model input. The generated excerpt sounds both intense and grand with tremendous momentum. So we take it as a new soundtrack for the Wave Scene in the movie *Interstellar*. Hope you enjoy and like it.
 ## More Samples
 
 ### Continuation of a given prime
