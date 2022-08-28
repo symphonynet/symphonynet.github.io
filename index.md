@@ -107,11 +107,11 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l3uw"><span style="font-weight:400;font-style:normal;text-decoration:none">Total Count (MIDIs)</span></th>
+    <th class="tg-l3uw"><span style="font-style:normal;text-decoration:none">Total Count (MIDIs)</span></th>
     <th class="tg-l3uw">Total Length</th>
     <th class="tg-l3uw"> Avg. Length</th>
     <th class="tg-l3uw">Avg. Tracks</th>
-    <th class="tg-l3uw"><span style="font-weight:400;font-style:normal;text-decoration:none">Time Signature</span></th>
+    <th class="tg-l3uw"><span style="font-style:normal;text-decoration:none">Time Signature</span></th>
     <th class="tg-l3uw">Keys</th>
     <th class="tg-l3uw">Instruments</th>
     <th class="tg-l3uw">Total Count (Notes)</th>
