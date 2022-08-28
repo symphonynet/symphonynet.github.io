@@ -97,7 +97,7 @@ Time and key signature
 ![Branching](/assets/graphs/ts_ks.png)
 
 Instruments and tracks
-![Branching](/assets/graphs/instru_track_pct.png)
+<img src="/assets/graphs/instru_track_pct.png" style="width:80%;height:80%;">
 
 Measures
 ![Branching](/assets/graphs/measure_stats.png)
