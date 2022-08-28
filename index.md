@@ -4,11 +4,11 @@ layout: default
 title: SymphonyNet
 ---
 # Table of Contents
-*   Video Demostration
-*   More Samples
-*   Dataset Analysis
-*   Music BPE Analysis
-*   Comparison with Previous Works
+*   **Video Demostration**
+*   **More Samples**
+*   **Dataset Introduction and Analysis**
+*   **Music BPE Analysis**
+*   **Comparison with Previous Works**
 
 ## Video Demonstration
 
@@ -94,7 +94,8 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 </table>
 
 
-## Dataset Analysis
+## Dataset Introduction and Analysis
+The first worldwide large-scale symbolic symphonic music dataset.
 
 ### Symphony MIDI Dataset Overview
 <style type="text/css">
@@ -184,16 +185,17 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 </tbody>
 </table>
 
-### More Details and Dataset Analysis
-Time and key signature
+### Further exploration and Analysis
+
+- **Time Signature and Key Signature**
 
 <img src="/assets/graphs/ts_ks.png" style="width:80%;height:80%;">
 
-Instruments and tracks
+- **Instruments and tracks**
 
 <img src="/assets/graphs/instru_track_pct.png" style="width:80%;height:80%;">
 
-Measures
+- **Measures**
 
 <img src="/assets/graphs/measure_stats.png" style="width:80%;height:80%;">
 
