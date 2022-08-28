@@ -142,48 +142,44 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n7d2{font-family:Verdana, Geneva, sans-serif !important;text-align:left;vertical-align:top}
-.tg .tg-s5hn{font-family:Verdana, Geneva, sans-serif !important;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-uau1{font-family:Verdana, Geneva, sans-serif !important;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-l3uw{font-family:Verdana, Geneva, sans-serif !important;text-align:center;vertical-align:top}
-.tg .tg-ip4o{border-color:#000000;font-family:Verdana, Geneva, sans-serif !important;font-weight:bold;text-align:left;
-  vertical-align:top}
-.tg .tg-u1ae{border-color:#000000;font-family:Verdana, Geneva, sans-serif !important;font-weight:bold;text-align:center;
-  vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-s5hn">Dataset</th>
-    <th class="tg-uau1">Scores Count</th>
-    <th class="tg-uau1">Notes Count</th>
+    <th class="tg-1wig">Dataset</th>
+    <th class="tg-amwm">Scores Count</th>
+    <th class="tg-amwm">Notes Count</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n7d2">MAETRO</td>
-    <td class="tg-l3uw">1184</td>
-    <td class="tg-l3uw">600</td>
+    <td class="tg-0lax">MAETRO</td>
+    <td class="tg-baqh">1184</td>
+    <td class="tg-baqh">600</td>
   </tr>
   <tr>
-    <td class="tg-n7d2">GiantMIDI-Piano</td>
-    <td class="tg-l3uw">10854</td>
-    <td class="tg-l3uw">3900</td>
+    <td class="tg-0lax">GiantMIDI-Piano</td>
+    <td class="tg-baqh">10854</td>
+    <td class="tg-baqh">3900</td>
   </tr>
   <tr>
-    <td class="tg-n7d2">MMD</td>
-    <td class="tg-l3uw">1524557</td>
-    <td class="tg-l3uw">207500</td>
+    <td class="tg-0lax">MMD</td>
+    <td class="tg-baqh">1524557</td>
+    <td class="tg-baqh">207500</td>
   </tr>
   <tr>
-    <td class="tg-n7d2">LMD</td>
-    <td class="tg-l3uw">148403</td>
-    <td class="tg-l3uw">53500</td>
+    <td class="tg-0lax">LMD</td>
+    <td class="tg-baqh">148403</td>
+    <td class="tg-baqh">53500</td>
   </tr>
   <tr>
-    <td class="tg-ip4o">Symphony MIDI Dataset</td>
-    <td class="tg-u1ae">46187</td>
-    <td class="tg-u1ae">279772</td>
+    <td class="tg-1wig">Symphony MIDI Dataset</td>
+    <td class="tg-amwm">46187</td>
+    <td class="tg-amwm">279772</td>
   </tr>
 </tbody>
 </table>
