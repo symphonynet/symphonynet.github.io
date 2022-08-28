@@ -93,4 +93,4 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 
 
 ## Dataset Analysis
-<embed src="/assets/graphs/ts_ks.pdf" width="800px" height="800px" />
+<embed src="/assets/graphs/ts_ks.pdf" width="100%" height="100%" />
