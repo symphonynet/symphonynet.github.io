@@ -7,6 +7,8 @@ title: SymphonyNet
 *   Video Demostration
 *   More Samples
 *   Dataset Analysis
+*   Music BPE Analysis
+*   Comparison with Previous Works
 
 ## Video Demonstration
 
@@ -105,3 +107,7 @@ Measures
 
 <img src="/assets/graphs/measure_stats.png" style="width:80%;height:80%;">
 
+
+## Music BPE Analysis
+
+## Comparison with Previous Works
