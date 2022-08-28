@@ -95,6 +95,44 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 
 
 ## Dataset Analysis
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l3uw{font-family:Verdana, Geneva, sans-serif !important;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l3uw"><span style="font-weight:400;font-style:normal;text-decoration:none">Total Count (MIDIs)</span></th>
+    <th class="tg-l3uw">Total Length</th>
+    <th class="tg-l3uw"> Avg. Length</th>
+    <th class="tg-l3uw">Avg. Tracks</th>
+    <th class="tg-l3uw"><span style="font-weight:400;font-style:normal;text-decoration:none">Time Signature</span></th>
+    <th class="tg-l3uw">Keys</th>
+    <th class="tg-l3uw">Instruments</th>
+    <th class="tg-l3uw">Total Count (Notes)</th>
+    <th class="tg-l3uw">Avg. Notes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l3uw">46187</td>
+    <td class="tg-l3uw">3284 Hours</td>
+    <td class="tg-l3uw">256 Sec</td>
+    <td class="tg-l3uw">20</td>
+    <td class="tg-l3uw">108</td>
+    <td class="tg-l3uw">29</td>
+    <td class="tg-l3uw">128</td>
+    <td class="tg-l3uw"><span style="font-weight:400;font-style:normal;text-decoration:none">279 million</span></td>
+    <td class="tg-l3uw">6013</td>
+  </tr>
+</tbody>
+</table>
+
 Time and key signature
 
 <img src="/assets/graphs/ts_ks.png" style="width:80%;height:80%;">
@@ -111,5 +149,4 @@ Measures
 ## Music BPE Analysis
 
 ## Comparison with Previous Works
-
 
