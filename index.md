@@ -93,9 +93,12 @@ We choose the first four measures from *Doctor Who - 11th Doctor Theme "I am the
 
 
 ## Dataset Analysis
-Time signature
+Time and key signature
 ![Branching](/assets/graphs/ts_ks.png)
 
-Time signature
-<img src="/assets/graphs/ts_ks.png">
+Instruments and tracks
+![Branching](/assets/graphs/instru_track_pct.png)
+
+Measures
+![Branching](/assets/graphs/measure_stats.png)
 
