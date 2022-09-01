@@ -7,8 +7,7 @@ title: SymphonyNet
 *   **Video Demostration**
 *   **More Samples**
 *   **Dataset Introduction and Analysis**
-*   **Music BPE Analysis**
-*   **Comparison with Previous Works**
+
 
 ## Video Demonstration
 
@@ -199,8 +198,4 @@ The first worldwide large-scale symbolic symphonic music dataset.
 
 <img src="/assets/graphs/measure_stats.png" style="width:80%;height:80%;">
 
-
-## Music BPE Analysis
-
-## Comparison with Previous Works
 
