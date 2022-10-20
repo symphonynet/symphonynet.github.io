@@ -152,34 +152,34 @@ The first worldwide large-scale symbolic symphonic music dataset.
   <tr>
     <th class="tg-1wig">Dataset</th>
     <th class="tg-amwm">Scores Count</th>
-    <th class="tg-amwm">Notes Count</th>
+    <th class="tg-amwm">Notes Count (M)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">MAETRO</td>
     <td class="tg-baqh">1184</td>
-    <td class="tg-baqh">600</td>
+    <td class="tg-baqh">6</td>
   </tr>
   <tr>
     <td class="tg-0lax">GiantMIDI-Piano</td>
     <td class="tg-baqh">10854</td>
-    <td class="tg-baqh">3900</td>
+    <td class="tg-baqh">39</td>
   </tr>
   <tr>
     <td class="tg-0lax">MMD</td>
     <td class="tg-baqh">1524557</td>
-    <td class="tg-baqh">207500</td>
+    <td class="tg-baqh">2075</td>
   </tr>
   <tr>
     <td class="tg-0lax">LMD</td>
     <td class="tg-baqh">148403</td>
-    <td class="tg-baqh">53500</td>
+    <td class="tg-baqh">535</td>
   </tr>
   <tr>
     <td class="tg-1wig">Symphony MIDI Dataset</td>
     <td class="tg-amwm">46187</td>
-    <td class="tg-amwm">279772</td>
+    <td class="tg-amwm">279</td>
   </tr>
 </tbody>
 </table>
